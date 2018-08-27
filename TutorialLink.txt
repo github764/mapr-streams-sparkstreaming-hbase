@@ -1,0 +1,1 @@
+https://community.mapr.com/community/exchange/blog/2017/04/26/real-time-streaming-data-pipelines-with-apache-apis-kafka-spark-streaming-and-hbase
